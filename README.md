@@ -84,37 +84,6 @@ This is a food ordering web application built with React.js for the frontend and
 - **POST /api/orders**: Add a new order
 - **POST /api/tracking**: Add tracking information for an order
 
-### Git Commands to Push Code to Repository
-
-1. **Initialize a new git repository (if not already initialized):**
-
-    ```bash
-    git init
-    ```
-
-2. **Add all files to the repository:**
-
-    ```bash
-    git add .
-    ```
-
-3. **Commit the changes:**
-
-    ```bash
-    git commit -m "Initial commit"
-    ```
-
-4. **Add the remote repository URL:**
-
-    ```bash
-    git remote add origin <repository-url>
-    ```
-
-5. **Push the code to the repository:**
-
-    ```bash
-    git push -u origin main
-    ```
 
 ### Usage
 
